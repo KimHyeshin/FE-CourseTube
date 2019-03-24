@@ -1,4 +1,4 @@
-# fe-coursetube
+# FE-CourseTube
 
 > Nuxt.js + Vuetify.js project
 
